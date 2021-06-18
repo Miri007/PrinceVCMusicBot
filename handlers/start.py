@@ -14,8 +14,8 @@ async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""⚜️<b>Hi {message.from_user.first_name}!⚜️
 
-⚜️ I am PRINCE_MUSIC_BOT VC Music Player, an open-source bot that lets you play music in your Telegram groups.
-Maintained by @Prince_3011 ❤
+⚜️ Salam mən @mdoffx tərəfindən yaradılmış botam. Zəhmət olmasa məni və asistanı qrupunza əlavə edin
+
 
 ⚜️ For source code Join our support group @PRINCE_MUSIC_CHATS.
 
